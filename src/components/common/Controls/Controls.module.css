@@ -1,0 +1,35 @@
+.formControl {
+  margin: 10px 0;
+  line-height: 0.8rem;
+}
+
+.formControl input[type='checkbox'],
+.formControl label {
+  cursor: pointer;
+}
+
+.field {
+  border-radius: 2px;
+  padding: 3px 5px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.checkbox {
+  margin: 0 5px 0 0;
+}
+
+.label {
+  font-size: 0.9rem;
+}
+
+.error {
+  border: 1px solid red;
+  border-radius: 2px;
+}
+
+.errorMessage {
+  color: red;
+  font-size: 0.7rem;
+  margin: 0 0 0 3px;
+}

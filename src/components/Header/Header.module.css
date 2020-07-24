@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  height: 60px;
+  justify-content: center;
+  background-color: #5669CA;
+}
+
+.header__content {
+  display: flex;
+  width: 960px;
+  align-items: center;
+  justify-content: space-between;
+}

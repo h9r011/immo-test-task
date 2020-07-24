@@ -1,0 +1,25 @@
+.logo {
+  color: #dadce8;
+  cursor: pointer;
+}
+
+.logo a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.logo:hover {
+  color: #ebedf4;
+}
+
+.logo__companyName {
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+
+.logo__caption {
+  margin-left: 2px;
+  font-weight: initial;
+  font-size: 0.7rem;
+  font-style: italic;
+}

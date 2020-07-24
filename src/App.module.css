@@ -1,0 +1,15 @@
+.app {
+  display: grid;
+  grid-template-columns: 1fr;
+  justify-content: center;
+
+}
+
+.content {
+  margin: 0 auto;
+  width: 960px;
+  display: grid;
+  padding: 20px;
+  justify-content: center;
+  grid-template-columns: 1fr;
+}

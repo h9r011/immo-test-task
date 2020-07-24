@@ -1,0 +1,14 @@
+.link {
+  padding: 7px;
+  border-radius: 3px;
+}
+
+.link:hover {
+  background-color: #DADCE2;
+  cursor: pointer;
+}
+
+.link a {
+  text-decoration: none;
+  color: #515151;
+}

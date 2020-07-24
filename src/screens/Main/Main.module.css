@@ -1,0 +1,16 @@
+.main {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+}
+
+.company {
+  font-size: 5rem;
+  font-weight: 600;
+}
+
+.caption {
+  display: flex;
+  justify-content: space-between;
+}
